@@ -1,4 +1,4 @@
-## Eu sou a Elayne Oliveira, graduanda em Ciência de Dados e apaixonada por tecnologia!
+## Eu sou a Elayne Oliveira, seja bem vindx!
 <div align="center">
   <a href="https://github.com/elaynefo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elaynefo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,11 +1,9 @@
 ## Hey you! I'm Elayne Oliveira, welcome!
 
-##
-
 Graduanda em Ciências de Dados pela UNESA, sou uma pessoa apaixonada por dados e programação. Me considero uma lifelong learning, estou em constante desenvolvimento, buscando sempre me atualizar de novidades e tendencias de tecnologias.
 
 Tenho background profissional nas áreas de BackEnd, Business Intelligence e Data Analytics.
-
+##
 
 ### Onde me encontrar
 <div>

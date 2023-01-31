@@ -7,8 +7,18 @@
 
 <br>
 
+Bem vindo ao meu perfil! 
 
-- 🌱 I’m currently learning Machine Learning and AI
+  ## About Me:
+
+Graduanda em Ciência de Dados pela Estácio de Sá, possuo background profissional em Business Intelligence, Finanças e atualmente trabalho com data analytics no Itaú Unibanco.
+
+Me considero uma Lifelong Learner, sempre buscando aprimorar minhas habilidades e desenvolver novas skills profissionais e pessoais. 
+Amo trabalhar com dados e possuo forte senso crítico e capacidade analítica para interpretar e extrair insights de dados brutos. 
+
+<br>
+
+- 🌱 I’m currently learning Machine Learning and
 - 📫 How to reach me **elayneferreira1@hotmail.com**
 - ⚡ Love coffee, music, travel and read.
 

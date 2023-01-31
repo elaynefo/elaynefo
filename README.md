@@ -18,7 +18,7 @@ Amo trabalhar com dados e possuo forte senso crítico e capacidade analítica pa
 
 <br>
 
-- 🌱 I’m currently learning Machine Learning and
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 How to reach me **elayneferreira1@hotmail.com**
 - ⚡ Love coffee, music, travel and read.
 
@@ -26,7 +26,7 @@ Amo trabalhar com dados e possuo forte senso crítico e capacidade analítica pa
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/java.svg'> <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/javascript.svg'> <img width ='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/github.svg'> <img width ='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/html.svg'> <img width ='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/css.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/java.svg'> <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/javascript.svg'> <img width ='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/github.svg'> <img width ='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/html.svg'> <img width ='32px' src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/css.svg'>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/elayne-oliveira/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 

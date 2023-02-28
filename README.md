@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Elayne Oliveira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=07FF00&center=true&vCenter=true&width=435&lines=Business+Intelligence;Data+Science;Data+Analytics;Back-End;Longlife+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=07FF00&center=true&vCenter=true&width=435&lines=Business+Intelligence;Data+Science;Data+Analytics;Longlife+Learner" alt="Typing SVG" /></a>
 </p>
 
 
@@ -11,10 +11,11 @@ Bem vindo ao meu perfil!
 
   ## About Me:
 
-Graduanda em Ciência de Dados pela Estácio de Sá, possuo background profissional em Business Intelligence, Finanças e atualmente trabalho com data analytics no Itaú Unibanco.
+Olá, me chamo Elayne Oliveira, sou graduanda em Ciência de Dados pela Estácio de Sá. Atualmente trabalho com análise de dados, e possuo experiência profissional em  Business Intelligence e Finanças.
 
-Me considero uma Lifelong Learner, sempre buscando aprimorar minhas habilidades e desenvolver novas skills profissionais e pessoais. 
-Amo trabalhar com dados e possuo forte senso crítico e capacidade analítica para interpretar e extrair insights de dados brutos. 
+Trabalho com processo de análise de dados e data visualization, voltado à area de negócios. Me considero uma Longlife Learner, e sempre busco aprimorar e desenvolver novas habilidades técnicas e interpessoais.
+
+Estou trilhando o caminho de estudos para me tornar uma Cientista de Dados, e compartilho um pouco da minha jornada aqui no GitHub. 
 
 <br>
 

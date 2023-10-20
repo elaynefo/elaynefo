@@ -1,13 +1,13 @@
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Elayne Oliveira</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Elayne de Oliveira</h1></summary>
   </ul>
 </div>
 
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## About me
 
 - :school: I am a `Data Science Student` at Universidade Estácio de Sá in São Paulo/Brazil
 - :technologist: **Currently working on** `Data Analysis` **&** `Data Science`
